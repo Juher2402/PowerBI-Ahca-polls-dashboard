@@ -2,7 +2,7 @@ AHCA Dashboard
 
 📊 Project Overview
 
-This Power BI dashboard provides an interactive analysis of [insert dataset/domain e.g., healthcare/financial/operational] data. It enables users to explore key metrics, identify trends, and gain actionable insights for decision-making.
+This Power BI dashboard provides an interactive analysis of data. It enables users to explore key metrics, identify trends, and gain actionable insights for decision-making.
 
 🚀 Features
 
