@@ -20,7 +20,7 @@ Power BI – Data modeling and visualization
 
 DAX – Measures and calculated columns
 
-Data Sources – [mention if Excel, SQL, CSV, or API]
+Data Sources – [CSV File]
 
 📢 Author
 
