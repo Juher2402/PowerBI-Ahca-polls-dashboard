@@ -2,7 +2,7 @@ AHCA Dashboard
 
 📊 Project Overview
 
-This Power BI dashboard provides an interactive analysis of data. It enables users to explore key metrics, identify trends, and gain actionable insights for decision-making.
+This repository contains a Power BI dashboard developed to analyze and visualize AHCA data. The dashboard provides clear and interactive insights into performance, trends, and comparisons, helping stakeholders make data-driven decisions.
 
 🚀 Features
 
